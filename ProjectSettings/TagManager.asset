@@ -50,6 +50,9 @@ TagManager:
   - name: Objects_front
     uniqueID: 955788947
     locked: 0
+  - name: Particles
+    uniqueID: 3382993623
+    locked: 0
   - name: UI
     uniqueID: 1319476465
     locked: 0
